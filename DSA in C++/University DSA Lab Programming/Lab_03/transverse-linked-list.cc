@@ -35,3 +35,4 @@ int main() {
 
     return 0;
 }
+// 10 -> 20 -> 30 -> NULL
